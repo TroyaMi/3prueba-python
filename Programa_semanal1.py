@@ -7,7 +7,7 @@ crear un programa que le pida al usuario su edad, nombre, dos números y muestre
     - de ambos números seguidos de su nombre y edad
     NOTA: si el usuario no es mayor de 5 años, no puede usar el programa
 """
-##def main():
+
 edad = int(input("Digite su edad: "))
 if edad < 5:
     print("\n""No le esta permitido usar el programa")
